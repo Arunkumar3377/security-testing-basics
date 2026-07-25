@@ -1,0 +1,6 @@
+{
+  "name": "Security Testing Basics",
+  "description": "An interactive educational platform to learn security testing concepts, cyber attack prevention, security tools, and safe hands-on simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
